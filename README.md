@@ -3,7 +3,7 @@
 # Fuck for Game
 
 [![Stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.bug.gamehook?label=stars)](https://github.com/Xposed-Modules-Repo/com.bug.gamehook)
-<a href="https://github.com/Xposed-Modules-Repo/com.bug.hookvip/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.bug.hookvip/total?label=Downloads"></a>
+<a href="https://github.com/Xposed-Modules-Repo/com.bug.gamehook/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.bug.gamehook/total?label=Downloads"></a>
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.bug.gamehook)](https://github.com/Xposed-Modules-Repo/com.bug.gamehook/releases)
 <a href="https://t.me/bugccx"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
 
