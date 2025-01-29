@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Fuck for Game
 
@@ -7,25 +7,25 @@
 [![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.bug.gamehook)](https://github.com/Xposed-Modules-Repo/com.bug.gamehook/releases)
 <a href="https://t.me/bugccx"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>  
 
-Fuck for Game 是一个基于 Xposed 的免费的游戏内购模块。
+Fuck for Game is a free in-app purchase module for games based on Xposed.
 
 </div>
 
 ----
 
-### 注意
-- 基于某个版本适配｜可能通杀｜如果无效你可能需要下载模块内标注的对应适配版本才可能正常使用模块的功能。
-- *所有适配的游戏都已经通过测试，你不会用和无效要分清*
+### Note
+- Adapted for a specific version | May work universally | If it doesn’t work, you may need to download the version specified in the module for it to function properly.
+- *All supported games have been tested. Make sure to distinguish between improper usage and actual issues.*
 
 ----
 
-### 免责声明
-- **本模块完全免费！禁止倒卖、搬运、引流、转载、分享！否则一切后果自行承担！**
-- 本模块仅供个人学习研究使用，请在下载后24小时内删除。请勿用于任何非法用途，否则后果自负！
-- 本模块不是为了破坏相应软件正常运营和作者的合法权益。请在使用本模块时，尊重相应作者的劳动成果，支持正版！不要利用本模块进行非法活动或其他损害相应软件合法权益的行为。
+### Disclaimer
+- **This module is completely free! Reselling, redistribution, traffic diversion, reposting, or sharing is strictly prohibited! Any consequences are your own responsibility!**
+- This module is for personal learning and research purposes only. Please delete it within 24 hours of downloading. Do not use it for any illegal purposes; otherwise, you bear all consequences!
+- This module is not intended to disrupt the normal operation of the respective software or infringe on the legal rights of its authors. When using this module, please respect the authors' work, support legitimate software, and do not use this module for illegal activities or actions that harm the legal rights of the respective software.
 
 ----
 
-### 须知
-- 该模块是完全免费的，如果你是从任何收费渠道获得，那么恭喜你，你被骗了！请不遗余力的进行举报！
-- 唯一Telegram频道：@bugccx
+### Important Information
+- This module is completely free. If you obtained it through any paid channel, congratulations, you’ve been scammed! Please report it without hesitation!
+- The only official Telegram channel: @bugccx
